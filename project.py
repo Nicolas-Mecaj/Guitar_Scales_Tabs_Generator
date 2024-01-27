@@ -6,7 +6,7 @@ NOTES = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B']  # 12 
 
 TUNE = ['E', 'A', 'D', 'G', 'B', 'E']  # Standard tuning
 
-FRETSTOT = 23  # 23 frets neck
+FRETSTOT = 23  # 24 frets neck
 
 SCALES = {  # 'name' : [I, N, T, E, R, V, A, L, S]
     'major': [2, 2, 1, 2, 2, 2, 1],
