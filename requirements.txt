@@ -1,0 +1,4 @@
+#### Modules
+
+- The script uses the built-in `itertools` module, which is a standard library in Python and doesn't require separate installation.
+- Install FPDF, required library: pip install fpdf
